@@ -11,5 +11,8 @@ I also hope to document my learning for my future reference, and maybe it would 
 
 For this blog, I followed the instructions from [Onextrapixel] and build it within an hour.
 
+The last part of the instruction require Git which I had to install from [Git-SCM].
+
 [Python Programmer]: https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg
 [Onextrapixel]: https://onextrapixel.com/start-jekyll-blog-github-pages-free/
+[Git-SCM]: https://git-scm.com/
