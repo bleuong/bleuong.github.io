@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "I Created My Own Blog Using Jekyll!"
 date:   2020-09-10 22:43:57 +0800
 categories: General
+tags: Jekyll
 ---
 
 After trying to learn Data Science for a while, I realise I was not getting anywhere. My notes are in a mess and learning is not very structured. So I have decided to follow the advice from YouTuber [Python Programmer] to have a blog as a means to motivate myself in this learning journey.
