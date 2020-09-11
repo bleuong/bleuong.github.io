@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Kok Tong Ong"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I **love** data sadistics work."
+  bio              : "I am a working professional pursuing my personal interest in coding and analytics in the spare time. But with all learning, there is bound to be frustrations, setbacks and feeling lost. Hence I hope to share the challenges to be faced and push myself to achieve my dream on working in data analytics. If I can make it, so can anyone."
   location         : "Singapore"
   links:
     - label: "Email"
