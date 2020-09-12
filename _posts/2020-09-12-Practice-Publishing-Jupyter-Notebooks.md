@@ -325,4 +325,4 @@ print(y)
 ```
 
 [NBconvert]: https://docs.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
-[here]: /assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing/
+[here]: https://github.com/bleuong/bleuong.github.io/tree/master/assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing
