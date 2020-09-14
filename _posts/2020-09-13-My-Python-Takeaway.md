@@ -9,7 +9,7 @@ tags: libraries power_set generator exception loop exception object_oriented
 
 I have started learning Python since 2019 and have amassed my notes in various forms such as text files, word documents, and Python files. Since I do not have have much opportunity to use Python in my job, I need to refer to these notes occassionally to refresh my memory.
 
-I will take this opportunity to consolidate my notes here for ease of my future reference. The key focus will be on general Python. For specific libraries, I will create dedicated posts for them as I get experience in them. I will periodically update this post with new notes where applicable. So let's go.
+I will take this opportunity to consolidate my notes here for ease of my future reference. The key focus will be on general Python. For specific libraries, I will create dedicated posts for them as I get experience in them. I will periodically update this post with [new notes](/assets/Jupyter_Notebooks/2020-09-13-Python-Takeaway/) where applicable. So let's go.
 
 ## Libraries
 

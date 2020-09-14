@@ -17,7 +17,7 @@ The main command is:
 jupyter nbconvert --to markdown NOTEBOOK-NAME.ipynb
 {% endhighlight %}
 
-Here is my first Jupyter notebook. The actual notebook and sample file can be accessed [here].
+Here is my first Jupyter notebook. The actual notebook and sample file can be accessed [here](/assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing/).
 
 # Data Preprocessing
 
@@ -325,4 +325,3 @@ print(y)
 ```
 
 [NBconvert]: https://docs.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
-[here]: https://github.com/bleuong/bleuong.github.io/tree/master/assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing
