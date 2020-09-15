@@ -17,7 +17,7 @@ The main command is:
 jupyter nbconvert --to markdown NOTEBOOK-NAME.ipynb
 {% endhighlight %}
 
-Here is my first Jupyter notebook. The actual notebook and sample file can be accessed [here](/assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing/).
+Here is my first Jupyter notebook. The actual notebook and sample file can be accessed [here](../assets/Jupyter_Notebooks/2020-09-12-Data-Preprocessing/).
 
 # Data Preprocessing
 
