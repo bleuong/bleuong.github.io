@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+-# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -117,7 +117,7 @@ author:
       url: "https://github.com/bleuong"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/kok-tong-ong"
+      url: "https://www.linkedin.com/in/kok-tong-ong"
 
 # Site Footer
 footer:
