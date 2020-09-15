@@ -95,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kok Tong Ong"
+  name             : "Kok Tong"
   avatar           : "/assets/images/bio_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a working professional pursuing my personal interest in coding and analytics in the spare time. But with all learning, there is bound to be frustrations, setbacks and feeling lost. Hence I hope to share the challenges to be faced and push myself to achieve my dream on working in data analytics. If I can make it, so can anyone."
   location         : "Singapore"
@@ -105,7 +105,7 @@ author:
       url: "mailto:bleuong@yahoo.com.sg"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://bleuong.github.io"
+      url: "https://bleuong.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
