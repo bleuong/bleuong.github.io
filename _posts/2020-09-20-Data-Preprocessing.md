@@ -55,11 +55,11 @@ In addition, I had configured my IDE (Spyder) to follow [PEP-8], which is the re
 # Data Pre-Processing
 
 Data pre-processing typically comprises of 5 main steps:
-    1. Read data into python readable format (typically is pandas)
-    2. Fill in missing data according to desired strategy (mean, median, most_frequent) (optional)
-    3. Encode categorical data in both x and y (optional)
-    4. Split data into training set and test set (optional)
-    5. Scale the data if the model is unable to handle extreme values (optional)
+1. Read data into python readable format (typically is pandas)
+2. Fill in missing data according to desired strategy (mean, median, most_frequent) (optional)
+3. Encode categorical data in both x and y (optional)
+4. Split data into training set and test set (optional)
+5. Scale the data if the model is unable to handle extreme values (optional)
 
 I have bundled the first 3 steps into a single module and the remaining steps as their respective modules. The main reason is because there is a change in the data format when we start to perform Steps 4 and 5. From Steps 1 to 3, I would be working with x, y. After Step 4, I would have x_train, y_train, x_test, y_test. After Step 5, I would additionally have scaled version of the training and test set and also the scaler object to inverse the scaling. By bundling the above steps into 3 different modules, I would be able to call on any of them depending on the model to be used.
 
